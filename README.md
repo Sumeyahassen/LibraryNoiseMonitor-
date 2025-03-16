@@ -54,7 +54,7 @@ python noise_detector.py
 🔹 Integrate with **mobile notifications** (SMS or app alerts).  
 
 ## **👩‍💻 Contributors**  
-👤 **Your Name** - [GitHub Profile](https://github.com/sumeyahassen)  
+👤 **SUMEYA HASSEN** - [GitHub Profile](https://github.com/sumeyahassen)  
 
 ---
 
