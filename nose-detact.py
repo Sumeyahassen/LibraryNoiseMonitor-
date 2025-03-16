@@ -4,16 +4,16 @@ import matplotlib.pyplot as plt# For graph plotting
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg# For embedding Matplotlib in Tkinter
 
 # Sound level thresholds
-LOW_THRESHOLD = 20
-HIGH_THRESHOLD = 50
+LOW_THRESHOLD = 20 # If sound level is below 20 → "Quiet"
+HIGH_THRESHOLD = 50 # If sound level is above 50 → "Too Loud" 
 
 # Create main application window
-root = tk.Tk()
-root.title("Noise Detection System")
-root.geometry("500x400")
+root = tk.Tk() # Create the main window
+root.title("Noise Detection System")  # Window title
+root.geometry("500x400") # Set window size
 
 # Label to display noise status
-status_label = tk.Label(root, text="Waiting for noise data...", font=("Arial", 14))
+status_label = tk.Label(root, text="Waiting for noise data...", font=("Times New Roman", 20))
 status_label.pack(pady=10)
 
 # Create a Matplotlib figure for real-time noise level visualization
