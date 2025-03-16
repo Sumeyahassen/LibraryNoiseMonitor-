@@ -53,9 +53,8 @@ python noise_detector.py
 🔹 Add **voice alerts** for better notifications.  
 🔹 Integrate with **mobile notifications** (SMS or app alerts).  
 
-## **👩‍💻 Contributors**  
+## **👩‍💻 Contributor**  
 🧕💻
-🧕
 **SUMEYA HASSEN** - [GitHub Profile](https://github.com/sumeyahassen)  
 
 ---
