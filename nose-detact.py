@@ -1,8 +1,7 @@
-import tkinter as tk
-import numpy as np
-import time
-import matplotlib.pyplot as plt
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+import tkinter as tk  # For GUI window
+import numpy as np# For generating fake noise data
+import matplotlib.pyplot as plt# For graph plotting
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg# For embedding Matplotlib in Tkinter
 
 # Sound level thresholds
 LOW_THRESHOLD = 20
