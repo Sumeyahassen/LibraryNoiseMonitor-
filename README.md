@@ -39,8 +39,9 @@ python noise_detector.py
 ```
 
 ## **📸 Screenshots**  
-*(Include an image of your GUI here)*  
-
+<img width="225" alt="image" src="https://github.com/user-attachments/assets/42d93e62-eeb5-44c6-9c09-c779f37ea94a" />
+<img width="250" alt="Screenshot 2025-03-16 001641" src="https://github.com/user-attachments/assets/ed07a435-4d50-44e0-b262-9ee529585dc2" />
+<img width="238" alt="Screenshot 2025-03-16 001712" src="https://github.com/user-attachments/assets/fec8c900-5e30-410b-a723-99716cd0bebc" />
 ## **🚀 How It Works**  
 1. The system captures sound (or generates fake noise data).  
 2. It updates and displays the noise level in **decibels (dB)**.  
